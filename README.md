@@ -19,5 +19,5 @@
 
 ## Example of result
 
-<img src="Misc/demo.gif"></img>
+<img src="Misc/Demo.gif"></img>
 
