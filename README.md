@@ -1,4 +1,4 @@
-# Implementation: Deep learning for Group Affinity Unsupervised Segmentation 
+# Implementation: Deep learning for Group Affinity Weakly Supervised Segmentation 
 
 ## Method
 <img src="Misc/Figure1.png"></img>
